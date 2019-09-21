@@ -1,0 +1,90 @@
+.container{
+	width: 900px;
+	margin: auto;
+	background-color: white;
+}
+
+.header{
+	padding: 20px;
+}
+
+.header .judul{
+	font-size: 45px;
+	font-weight: bold
+	color: #fff;
+}
+
+body{
+	font:20px arial, black;
+	background-color: #c0c0c0;
+}
+
+.hero {
+	height: 300px;
+	background-image: url(../img/mikrotik1.png);
+	background-size: cover;
+	background-position: : 0 -200px;
+	border-top: 5px solid salmon;
+	border	
+}
+
+.content h2 {
+	font size: 28px;
+	font-weight: bold;
+}
+
+.content p {
+	margin bottom: 20px;
+	font-size: 20px;
+	text-align: justify;
+	text-indent: 20px;
+	color: black;
+}
+
+
+
+.penulis a {
+	padding-top: 15px;
+	text-decoration: none;
+	color:salmon;
+}
+
+.penulis a:hover:{
+	background-color: lightskyblue;
+	color: blue;
+
+}
+
+.header ul li {
+	display: inline-block;
+	margin-right: 5px;
+	margin-bottom: -100px;
+}
+
+.header a {
+	text-decoration: none;
+	color: salmon;
+	padding: 2px;
+}
+
+.header a:hover {
+	background-color: lightskyblue;
+	color: blue;
+}
+
+.sumber .sumber1 {
+	text-align: right;
+	font-size: 12px;
+}
+
+
+.footer {
+	background-color: black;
+	padding: 2px;
+}
+
+.footer .copy {
+	color: white;
+	text-align: center;
+	font-size: 12px;
+}
